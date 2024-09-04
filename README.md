@@ -1,4 +1,4 @@
-## Hi there 👋
+## 2022-2026 ITMO CS Student
 
 <!--
 **bitljuiz/bitljuiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
