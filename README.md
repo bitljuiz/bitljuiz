@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github.com/bitljuiz/bitljuiz/blob/main/jobOffer.gif)
+<!--![](https://github.com/bitljuiz/bitljuiz/blob/main/jobOffer.gif)
